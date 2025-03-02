@@ -10,6 +10,13 @@
 
 This is a personal project designed to showcase technical proficiency in Unity game development and software architecture patterns.
 
+## Setup Instructions
+
+1. Clone this repository
+2. Open with Unity 2022.3 or later
+3. Allow scripts to compile
+4. Run from any scene from `Assets/Scenes/`
+
 ## Technical Stack
 
 - **Unity Version**: 2022.3 LTS
@@ -22,13 +29,6 @@ This is a personal project designed to showcase technical proficiency in Unity g
   - [UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
 - **Data Management**:
   - JSON configuration loading system
-
-## Setup Instructions
-
-1. Clone this repository
-2. Open with Unity 2022.3 or later
-3. Allow scripts to compile
-4. Run from any scene from `Assets/Scenes/`
 
 ## Architecture Features
 
