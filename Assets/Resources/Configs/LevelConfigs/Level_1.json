@@ -1,0 +1,39 @@
+﻿{
+  "level_prefab_path" : "Prefabs/Levels/Level_1",
+  "player_config": "@ref:Configs/PlayerConfig",
+  "camera_config": "@ref:Configs/CameraConfig",
+  "enemies" :{
+    "spawn_settings": {
+      "WalkingEnemy": {
+        "spawn_count": 3,
+        "prefab": "Prefabs/LevelObjects/Enemies/WalkingEnemy",
+        "config": "@ref:Configs/Enemies/WalkingEnemy/WalkingEnemyConfig"
+      }
+    }
+  },
+  "collectables": {
+    "main_collectable_resource_id": "Coin",
+    "target_collect_amount": 5,
+    "spawn_settings": {
+      "Coin": {
+        "spawn_count": 10,
+        "prefab": "Prefabs/LevelObjects/Collectables/CollectableCoin"
+      }
+    }
+  },
+  "zones": {
+    "spawn_settings": {
+      "player_spawn_zone": {
+        "spawn_count": 1,
+        "prefab": "Prefabs/LevelObjects/LevelZones/PlayerSpawnZone"
+      },
+      "win_zone": {
+        "spawn_count": 1,
+        "prefab": "Prefabs/LevelObjects/LevelZones/WinZone"
+      }
+    }
+  },
+  "ads": {
+    "health_reward": 1
+  }
+}

@@ -1,0 +1,9 @@
+﻿{
+  "name": "Services",
+  "references": [
+    "Core",
+    "GameConfigs",
+    "UniTask",
+    "GameLevelConfigs"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Ads",
+    "rootNamespace": "",
+    "references": [
+        "Core",
+        "UniTask",
+        "GameConfigs",
+        "UnityEngine.Advertisements",
+        "Logging"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

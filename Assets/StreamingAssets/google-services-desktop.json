@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "515177254335",
+    "project_id": "ballgame-530d6",
+    "storage_bucket": "ballgame-530d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515177254335:ios:aad7e64d3f9da5a697650a",
+        "android_client_info": {
+          "package_name": "com.learning.ballgame"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ4q_NirgA2z5DZ1AfHartK-9qUb_h0qQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

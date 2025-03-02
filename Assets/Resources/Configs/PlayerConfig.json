@@ -1,0 +1,19 @@
+﻿{
+  "prefab_path": "Prefabs/Player/Player",
+  "health": 3,
+  "controller_config" : {
+    "speed": "1"
+  },
+  "input_config": {
+    "pointer": {
+      "max_interaction_distance": 1
+    },
+    "keyboard": {
+      "left": "A",
+      "right": "D",
+      "up": "W",
+      "down": "S",
+      "speed": 10
+    }
+  }
+}

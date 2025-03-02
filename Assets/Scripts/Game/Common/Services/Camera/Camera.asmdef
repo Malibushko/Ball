@@ -1,0 +1,9 @@
+﻿{
+  "name": "Camera",
+  "references": [
+    "Core",
+    "UniTask",
+    "Configs",
+    "GameConfigs"
+  ]
+}

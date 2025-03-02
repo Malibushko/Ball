@@ -1,0 +1,19 @@
+﻿{
+  "name": "Gamehub",
+  "references": [
+    "Core",
+    "Common",
+    "UniTask",
+    "UniRx",
+    "UIFactory",
+    "Zenject",
+    "Physics",
+    "Camera",
+    "Configs",
+    "Scenes",
+    "GameConfigs",
+    "GameStates",
+    "LoadingScreen",
+    "Assets"
+  ]
+}

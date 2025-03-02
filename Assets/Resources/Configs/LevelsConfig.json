@@ -1,0 +1,7 @@
+﻿{
+  "level_configs" : [
+      "LevelConfigs/Level_1",
+      "LevelConfigs/Level_2",
+      "LevelConfigs/Level_3"
+    ]
+}

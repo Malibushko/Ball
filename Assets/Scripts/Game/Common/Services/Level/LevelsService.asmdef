@@ -1,0 +1,12 @@
+﻿{
+  "name": "LevelsService",
+  "references": [
+    "Core",
+    "GameConfigs",
+    "UniTask",
+    "Analytics",
+    "Configs",
+    "Assets",
+    "GameLevelConfigs"
+  ]
+}

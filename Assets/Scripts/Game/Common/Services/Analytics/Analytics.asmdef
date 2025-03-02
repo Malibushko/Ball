@@ -1,0 +1,8 @@
+﻿{
+  "name": "Analytics",
+  "references": [
+    "Core",
+    "Logging",
+    "UniTask"
+  ]
+}

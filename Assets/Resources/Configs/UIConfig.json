@@ -1,0 +1,16 @@
+{
+    "loading_screen_config": {
+        "prefab_path" : "Prefabs/UI/Loading/LoadingScreen",
+        "min_show_time": 2,
+        "status_change_delay": 0.5
+    },
+    "game_hub_config": {
+        "hud_prefab_path": "Prefabs/UI/Hub/HUD"
+    },
+    "game_play_config": {
+        "hud_prefab_path": "Prefabs/UI/GamePlay/HUD",
+        "level_win_prefab_path": "Prefabs/UI/GamePlay/LevelWin",
+        "level_lose_prefab_path": "Prefabs/UI/GamePlay/LevelLose",
+        "level_pause_prefab_path": "Prefabs/UI/GamePlay/LevelPause"
+    }
+}

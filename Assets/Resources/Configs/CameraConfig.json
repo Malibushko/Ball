@@ -1,0 +1,13 @@
+﻿{
+  "speed": 5.0,
+  "position_offset": {
+    "x": 0,
+    "y": 10,
+    "z": -5
+  },
+  "rotation_offset": {
+    "x": 60,
+    "y": 0,
+    "z": 0
+  }
+}

@@ -1,0 +1,21 @@
+﻿{
+  "is_test_mode": true,
+  "max_ads_per_session": 1,
+  "platforms": {
+    "android": {
+      "rewarded_placement_id": "Rewarded_Android",
+      "ads_unit": "Android_RewardedVideo",
+      "game_id": "5804243"
+    },
+    "ios": {
+      "rewarded_placement_id": "Rewarded_iOS",
+      "ads_unit": "iOS_RewardedVideo",
+      "game_id": "5804242"
+    },
+    "default": {
+      "rewarded_placement_id": "Rewarded_iOS",
+      "ads_unit": "Rewarded_iOS",
+      "game_id": "5804242"
+    }
+  }
+}

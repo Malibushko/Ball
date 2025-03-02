@@ -1,0 +1,17 @@
+﻿{
+  "name": "GameStates",
+  "references": [
+    "Common",
+    "Core",
+    "UniTask",
+    "LoadingScreen",
+    "Scenes",
+    "Assets",
+    "Text",
+    "UIFactory",
+    "Ads",
+    "Analytics",
+    "GameConfigs",
+    "LevelsService"
+  ]
+}

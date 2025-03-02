@@ -1,0 +1,8 @@
+﻿{
+  "name": "GameConfigs",
+  "references": [
+    "Common",
+    "Core",
+    "Configs"
+  ]
+}

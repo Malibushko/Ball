@@ -1,0 +1,5 @@
+﻿{
+  "damage": 1,
+  "hit_handler_config": "@ref:Configs/Enemies/PerpendicularHitConfig",
+  "controller_config": "@ref:Configs/Enemies/WalkingEnemy/WalkingEnemyControllerConfig"
+}

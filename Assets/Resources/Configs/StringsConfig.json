@@ -1,0 +1,13 @@
+﻿{
+  "game_strings" : {
+    "PreloadingUIStatus": "Preloading...",
+    "BuildingLevelStatus": "Building level...",
+    "LoadingGameHubStatus": "Loading game hub...",
+    "ConfiguringLevelStatus": "Configuring level...",
+    "CreatingGameHUDStatus": "Creating UI...",
+    "LoadingGameDoneStatus": "Loading game...",
+    "LevelLoseLoadingStatusKey": "Tip: try aim precicely before making a move!",
+    "LevelWinLoadingStatus": "That was a nice shot!",
+    "LoadingDoneStatus": "Final preparations..."
+  }
+}

@@ -1,0 +1,7 @@
+﻿{
+  "name": "GameLevelConfigs",
+  "references": [
+    "PlayerConfigs",
+    "Common"
+  ]
+}

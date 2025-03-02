@@ -1,0 +1,7 @@
+﻿{
+  "name": "PlayerConfigs",
+  "references": [
+    "Configs",
+    "PlayerInput"
+  ]
+}

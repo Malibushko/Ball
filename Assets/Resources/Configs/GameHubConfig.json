@@ -1,0 +1,13 @@
+﻿{
+    "level_prefab_path": "Prefabs/Levels/MainMenuBackground",
+    "camera_config": "@ref:Configs/CameraConfig",
+    "player": {
+        "prefab_path": "Prefabs/Player/GameHubPlayer",
+        "controller": {
+            "move_frequency": 5,
+            "min_speed": 1.5,
+            "max_speed": 10
+        }
+    },
+    "hud_prefab_path": "Prefabs/UI/Hub/HUD"
+}

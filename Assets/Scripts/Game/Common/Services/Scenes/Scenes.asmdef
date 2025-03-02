@@ -1,0 +1,8 @@
+﻿{
+  "name": "Scenes",
+  "references": [
+    "UniTask",
+    "Core",
+    "Zenject"
+  ]
+}

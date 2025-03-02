@@ -1,0 +1,20 @@
+.unity-progress-bar__container
+{
+    min-height: 1px;
+    height: 100%;
+}
+
+.unity-progress-bar__background
+{
+    height: 10%;
+    border-radius: 5px;
+    background-color: #808080;
+}
+
+.unity-progress-bar__progress
+{
+    background-color: #80ff80;
+    flex-grow: 1;
+    margin: 0;
+    border-radius: 5px;
+}

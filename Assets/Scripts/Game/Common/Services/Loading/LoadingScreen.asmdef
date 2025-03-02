@@ -1,0 +1,11 @@
+﻿{
+  "name": "LoadingScreen",
+  "references":[ 
+    "Core",
+    "UniTask",
+    "Loading",
+    "Services",
+    "Scenes",
+    "UIFactory"
+  ]
+}

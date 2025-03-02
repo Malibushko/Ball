@@ -1,0 +1,10 @@
+﻿{
+  "name": "UIFactory",
+  "references": [
+    "Core",
+    "Assets",
+    "UniTask",
+    "GameConfigs",
+    "Configs"
+  ]
+}

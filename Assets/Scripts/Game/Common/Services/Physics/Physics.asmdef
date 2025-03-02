@@ -1,0 +1,8 @@
+﻿{
+  "name": "Physics",
+  "references": [
+    "Core",
+    "UniTask",
+    "UniRx"
+  ]
+}

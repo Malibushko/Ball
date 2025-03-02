@@ -1,0 +1,9 @@
+{
+    "ui_config_path" : "Configs/UIConfig",
+    "levels_config_path" : "Configs/LevelsConfig",
+    "player_config_path": "Configs/PlayerConfig",
+    "strings_config_path": "Configs/StringsConfig",
+    "memory_config_path": "Configs/MemoryConfig",
+    "game_hub_config_path": "Configs/GameHubConfig",
+    "ads_config_path": "Configs/AdsConfig"
+}

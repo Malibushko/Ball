@@ -1,0 +1,27 @@
+﻿{
+  "name": "Game",
+  "references": [
+    "Core",
+    "Loading",
+    "Gamehub",
+    "Gameplay",
+    "Zenject",
+    "Zenject-Editor",
+    "UniRx",
+    "Common",
+    "UniTask",
+    "GameStates",
+    "LoadingScreen",
+    "GameConfigs",
+    "Configs",
+    "Scenes",
+    "LevelsService",
+    "Assets",
+    "UIFactory",
+    "Text",
+    "Logging",
+    "Ads",
+    "Analytics",
+    "Effects"
+  ]
+}
