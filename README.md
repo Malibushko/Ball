@@ -2,9 +2,8 @@
 
 ## Gameplay Demo
 
-[//]: # (Add your gameplay video or GIF here)
 <p align="center">
-  <img src="Repository/gameplay_record.mp4" alt="Gameplay Demo" width="600">
+  <img src="Repository/gameplay.gif" alt="Gameplay Demo" width="600">
 </p>
 
 ## Overview
